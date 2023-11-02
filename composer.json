@@ -15,7 +15,7 @@
     "geocoder-php/plugin": "^1.5",
     "php-http/curl-client": "^2.3",
     "php-http/discovery": "^1.14",
-    "symfony/console": "^4.4 || ^5.0 || ^6.0",
+    "symfony/console": "^4.4 || ^5.0 || ^6.0 || ^7.0",
     "symfony/framework-bundle": "^4.4 || ^5.0 || ^6.0 || ^7.0",
     "symfony/options-resolver": "^4.4 || ^5.0 || ^6.0 || ^7.0",
     "willdurand/geocoder": "^4.6"
